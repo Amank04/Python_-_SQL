@@ -21,7 +21,7 @@ This project demonstrates how to execute SQL queries (basic, intermediate, and a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/Amank04/Python_-_SQL.git
 
 2. Install the required Python packages:
    ```bash
